@@ -1,3 +1,3 @@
-# travis-broken-example
+# travis-fixed-example
 
-An example that will cause a build failure
+Read: [Travis CI for beginers](https://docs.travis-ci.com/user/for-beginners)
